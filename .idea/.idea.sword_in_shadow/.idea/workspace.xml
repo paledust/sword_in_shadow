@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ee757774-5bbc-4e7e-8d8d-c3ee07e80577" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sword_in_shadow.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/sword_in_shadow.slnx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sword_in_shadow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.sword_in_shadow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/BasicImporter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/BasicImporter/StaticModel_Importer.preset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/BasicImporter/StaticModel_Importer.preset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/BasicImporter/Texture_Importer.preset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/BasicImporter/Texture_Importer.preset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/Gameplay/Interaction/Basic3rdPersonInteraction/BasicMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DevelopBasic/Gameplay/Interaction/Basic3rdPersonInteraction/BasicMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DevelopBasic/Persistence.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DevelopBasic/Persistence.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +31,74 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8f33e5928460498a832cccfcf0920f172b400/34/7ffc3b15/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.12306882434527E-308" />
+      <entry key="MS500" value="1.3100854724246027E-61" />
+      <entry key="S2" value="2.745197211500245E-15" />
+      <entry key="S5" value="5.186857495433309E-6" />
+      <entry key="S10" value="0.0064403491190015575" />
+      <entry key="S30" value="0.7627198912659331" />
+      <entry key="S60" value="2.7063009553784814" />
+      <entry key="M2" value="6.511741954015935" />
+      <entry key="M5" value="18.93889017218551" />
+      <entry key="M10" value="35.687748681596155" />
+      <entry key="M15" value="47.96959349545894" />
+      <entry key="M30" value="70.84452599057512" />
+      <entry key="H1" value="90.84263358692809" />
+      <entry key="H2" value="104.62442900907048" />
+      <entry key="H4" value="112.7990139181219" />
+      <entry key="D1" value="120.38899583627037" />
+      <entry key="W1" value="121.76787117987963" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000000000009" />
+      <entry key="MS500" value="1.0011956229490246" />
+      <entry key="S2" value="1.3005474399698305" />
+      <entry key="S5" value="1.9338580931967653" />
+      <entry key="S10" value="2.3719924478406322" />
+      <entry key="S30" value="3.26595024870137" />
+      <entry key="S60" value="4.699485940044871" />
+      <entry key="M2" value="7.343971588327959" />
+      <entry key="M5" value="13.75594451549212" />
+      <entry key="M10" value="21.288226026791133" />
+      <entry key="M15" value="26.886834268186206" />
+      <entry key="M30" value="37.6061027098365" />
+      <entry key="H1" value="47.1204957501619" />
+      <entry key="H2" value="53.70096228331282" />
+      <entry key="H4" value="57.605891328700324" />
+      <entry key="D1" value="61.23079458319449" />
+      <entry key="W1" value="61.88917068968441" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.136231256800816E-9" />
+      <entry key="MS500" value="0.023180674217956523" />
+      <entry key="S2" value="0.6151607990565581" />
+      <entry key="S5" value="1.5186545967131466" />
+      <entry key="S10" value="2.1300546787869306" />
+      <entry key="S30" value="3.9202556585764716" />
+      <entry key="S60" value="7.331510610535284" />
+      <entry key="M2" value="13.797412471097052" />
+      <entry key="M5" value="32.64112636439495" />
+      <entry key="M10" value="56.92673562687406" />
+      <entry key="M15" value="74.811930158036" />
+      <entry key="M30" value="108.41702859954106" />
+      <entry key="H1" value="137.94124843132673" />
+      <entry key="H2" value="158.31268632207468" />
+      <entry key="H4" value="170.39802804902138" />
+      <entry key="D1" value="181.61856292331666" />
+      <entry key="W1" value="183.6568644019998" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
